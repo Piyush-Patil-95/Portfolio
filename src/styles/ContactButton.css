@@ -1,0 +1,17 @@
+.getintouchbt {
+    background-color: #f14344;
+    border: none;
+}
+.btn-div {
+    display: inline-block;
+}
+.getintouchbt:hover {
+    background-color: #f14343d0;
+}
+
+.btn-text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}

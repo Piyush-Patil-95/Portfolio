@@ -1,0 +1,64 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: #4e525a;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+.main {
+    padding: 70px 0px;
+}
+.row {
+    padding-top: 30px;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+    line-height: 80px;
+    color: #24262f;
+}
+/* red - fe2c2b - #f14344 - purple-ca1c72*/
+#mern {
+    color: #f14344;
+    
+}
+#mern2 {
+    color: #f14344;
+    font-weight: 500;
+}
+
+.btn-outline-secondary {
+    margin: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.btn-outline-secondary.btn-hover:hover {
+    background-color: rgba(71, 15, 145, 0.164);
+    color: black; /* Optional: to change the text color */
+}
+.circle {
+    width: auto; 
+    height: auto; /* Adjust the height to change the size of the circle */
+    border: 10px solid 	#A9A9A9; /* Border color and thickness */
+    border-radius: 50%; /* Makes the div a circle */
+    background-color: transparent; /* Ensures the circle is empty */
+    align-self: center;
+    overflow: hidden;
+}
+.circle-image {
+    width: 100%; /* Ensures the image covers the entire circle */
+    height: auto; /* Maintains the image aspect ratio */
+}
+
+

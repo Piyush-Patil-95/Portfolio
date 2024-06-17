@@ -1,0 +1,23 @@
+.project-item {
+
+    height: auto;
+    border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    
+}
+.projects-outer-div {
+    padding: 50px 0px;
+}
+
+.small-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 15px;
+    line-height: none;
+}
+
+

@@ -1,0 +1,22 @@
+#one {
+    color: #f14344;
+}
+#one-dot {
+    color: blue;
+}
+
+#three {
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+#four {
+    padding: 0px 300px;
+}
+
+#contact-icon {
+    width: 40px ;
+    height: auto;
+    margin-left: 40px;
+}

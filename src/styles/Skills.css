@@ -1,0 +1,20 @@
+.skills-item {
+    display: inline-block; /* Make the div adjust its size based on content */
+    background-color: rgba(0, 0, 255, 0.69); /* Blue background color */
+    border-radius: 20%; /* 20% border radius */
+    padding: 10px; /* Padding to give some space around the text */
+    color: white; /* White text color */
+    font-size: 16px; /* Adjust the font size as needed */
+    text-align: center;
+    padding: 10px 15px;
+
+  }
+.div-skill {
+  display: inline;
+  padding: 0px 10px;
+  margin: 20px 0px;
+}
+
+.skills-div {
+  padding: 80px 0px;
+}

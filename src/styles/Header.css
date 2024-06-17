@@ -1,0 +1,59 @@
+.nav {
+  display: flex;
+  justify-content: right; /* Center the content horizontally */
+  align-items: center; /* Center the content vertically */
+  padding: 20px;
+}
+
+.logo {
+  position: absolute; /* Take the logo out of the normal document flow */
+  left: 20px; /* Position it to the left */
+  font-weight: bold;
+  font-size: 18px;
+  color: #333;
+  
+}
+.navbar-nav.links {
+  flex-grow: 1;
+  justify-content: flex-end;
+}
+.links {
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+  gap: 35px;
+  
+}
+
+.link {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: #fe2c2b;
+}
+
+
+
+.fullStop {
+  color: #fe2c2b;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.navTag {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 36px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.721);
+}
+
